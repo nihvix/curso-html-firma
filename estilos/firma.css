@@ -1,0 +1,44 @@
+body {
+    background-color: azure;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.contenedor {
+    box-shadow: 5px 5px 40px black;
+    margin: 50px;
+}
+
+/*Estilo parte superior*/
+.superior {
+    background-color: rgb(64, 80, 186);
+    padding: 0px;
+    color: azure;
+    padding: 3%;
+}
+
+a {
+    color: aqua;
+}
+
+img {
+    width: 128px;
+}
+
+/*Estilo parte inferior*/
+.inferior {
+    border-top: 2px solid rgb(8, 8, 137);
+    background-color: rgb(204, 214, 220);
+    padding: 3%;
+}
+
+span {
+    font-weight: 700;
+    color: rgb(8, 8, 137);
+}
+
+cite {
+    color: rgb(8, 8, 137);
+    font-size: 0.8em;
+}
